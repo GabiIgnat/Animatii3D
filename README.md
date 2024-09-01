@@ -15,3 +15,5 @@ Imagini randate:
 ![ANIMATIE](/render_f3.png)
 ![ANIMATIE](/render_f4.png)
 ![ANIMATIE](/render_f5.png)
+
+#### Note: didn't include the .blend files of the body because of git-lfs limitations
