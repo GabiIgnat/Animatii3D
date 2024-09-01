@@ -6,12 +6,12 @@ Acest proiect a constat in:
 
 ## Model 3D
 Imagini randate: 
-![FRONT](../Animatii3D/render_f1.png)
-![BACK](../Animatii3D/render_f2.png)
+![FRONT](/render_f1.png)
+![BACK](/render_f2.png)
 
 ## Animatie 3D
 Animatia 3D reprezinta descoperirea masinii acoperita de un material.
 Imagini randate:
-![ANIMATIE](../Animatii3D/render_f3.png)
-![ANIMATIE](../Animatii3D/render_f4.png)
-![ANIMATIE](../Animatii3D/render_f5.png)
+![ANIMATIE](/render_f3.png)
+![ANIMATIE](/render_f4.png)
+![ANIMATIE](/render_f5.png)
